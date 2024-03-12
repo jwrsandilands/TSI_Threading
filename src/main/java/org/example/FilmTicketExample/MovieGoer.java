@@ -1,7 +1,7 @@
 package org.example.FilmTicketExample;
 
 public class MovieGoer {
-    String name;
+    public String name;
 
     MovieGoer(String name){
         this.name = name;

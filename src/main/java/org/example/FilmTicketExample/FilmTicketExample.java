@@ -1,7 +1,5 @@
 package org.example.FilmTicketExample;
 
-import java.util.ArrayList;
-
 public class FilmTicketExample {
     static final TicketBooth ticketBooth = new TicketBooth();
 
